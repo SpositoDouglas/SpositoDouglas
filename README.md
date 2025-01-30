@@ -1,16 +1,32 @@
-## Hi there 👋
+## Olá, eu sou Douglas Sposito!
 
-<!--
-**SpositoDouglas/SpositoDouglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim
+🎓 **Estudante de Engenharia de Software**
 
-Here are some ideas to get you started:
+🔭 **Atualmente em busca do primeiro emprego**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Aprendendo:**  
+- Tecnologias para desenvolvimento full-stack (React, Node.js, Next.js)
+- Desenvolvimento de jogos (Unity, GameMaker)
+
+---
+
+
+<div>
+<img height=180cm src="https://github-readme-stats.vercel.app/api?username=SpositoDouglas&show_icons=true&theme=radical"/>
+<img height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpositoDouglas&show_icons=true&theme=radical&layout=compact"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+</div>
+
+## 💬 **Entre em contato comigo:**  
+📧 Email: [douglas_sposito2015@outlook.com](mailto:douglas_sposito2015@outlook.com)  
+🔗 LinkedIn: [Douglas Sposito](https://www.linkedin.com/in/douglas-sposito-82603023b/)
